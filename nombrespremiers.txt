@@ -3,7 +3,7 @@ public class main {
 		float c;
 		int d;
 		boolean trouve=false;
-		for (float a=3;a<100000;a++) {
+		for (float a=3;a<10000;a++) {
 			float b=1;
 			for (b=2;b<a;b++) {
 			c=a/b;
