@@ -1,0 +1,13 @@
+Un nombre premier est un entier naturel qui admet exactement deux diviseurs distincts entiers et positifs (qui sont alors 1 et lui-même). Ainsi, 1 n'est pas premier car il n'a qu'un seul diviseur entier positif ; 0 non plus car il est divisible par tous les entiers positifs. Par opposition, un produit de deux entiers strictement supérieurs à 1 est dit composé. Par exemple 6 = 2 × 3 est composé, tout comme 12 = 3 × 4 ou 2 × 6, mais 11 est premier car 1 et 11 sont les seuls diviseurs de 11.
+
+Les nombres 0 et 1 ne sont ni premiers ni composés. Certains mathématiciens considéraient autrefois (jusqu'au 19e siècle) 1 comme un nombre premier, mais durant le début du 20e siècle, un consensus exclut définitivement sa primalité1.
+
+Les vingt-cinq nombres premiers inférieurs à 100 sont :
+
+    2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89 et 97.
+
+De telles listes de nombres premiers inférieurs à une borne donnée, ou compris entre deux bornes, peuvent être obtenues grâce à diverses méthodes de calcul. Mais il n'existe pas de liste exhaustive (finie) de nombres premiers, car il existe une infinité de nombres premiers (on le sait depuis l'Antiquité : voir Théorème d'Euclide sur les nombres premiers).
+
+La notion de nombre premier est une notion de base en arithmétique élémentaire : le théorème fondamental de l'arithmétique assure qu'un nombre composé est factorisable en un produit de nombres premiers, et que cette factorisation est unique à l'ordre des facteurs près. Elle admet des généralisations importantes dans des branches des mathématiques plus avancées, comme la théorie algébrique des nombres, qui prennent ainsi à leur tour l'appellation d'arithmétique. Par ailleurs, de nombreuses applications industrielles de l'arithmétique reposent sur la connaissance algorithmique des nombres premiers, et parfois plus précisément sur la difficulté des problèmes algorithmiques qui leur sont liés ; par exemple certains systèmes cryptographiques et des méthodes de transmission de l'information. Les nombres premiers sont aussi utilisés pour construire des tables de hachage et pour constituer des générateurs de nombres pseudo-aléatoires.
+
+Découvert le 3 janvier 2018, le plus grand nombre premier connu est le nombre premier de Mersenne 277 232 917 – 1, qui comporte plus de 23 millions de chiffres en écriture décimale.
