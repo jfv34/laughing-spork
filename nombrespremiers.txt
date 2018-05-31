@@ -1,0 +1,15 @@
+public class main {
+	public static void main(String[] args) {
+		float c;
+		int d;
+		boolean trouve=false;
+		for (float a=3;a<100000;a++) {
+			float b=1;
+			for (b=2;b<a;b++) {
+			c=a/b;
+			d=(int)c;
+			if (c==d) {trouve=true;}
+				}
+			if (trouve==false) {System.out.println((int)a);}
+			trouve=false;
+			}}}
